@@ -3,6 +3,8 @@ An offline Music mobile app created using flutter and getx.
 Having libraries such as just audio and on audio query.
 
 
+
+Screenshots ->
 ![Screenshot (21)](https://github.com/PiyushKhairnar53/music_app/assets/41378449/2c23ba15-2be3-4990-9915-bb22d47cb2a3)
 
 
